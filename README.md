@@ -7,6 +7,8 @@ The following are the brief summary of the projects.
 01 : Can Standardized Test Be Used As The Only Way To Reduce Drop Out?
 
 This is the first project done find out if standardized test can be used as the only way to reduct drop out.
+Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Numpy
+
 
 02 : Required core features for the next development project
 
