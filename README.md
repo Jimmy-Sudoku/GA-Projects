@@ -7,9 +7,9 @@ The following are the brief summary of the projects.
 
 01 : Can Standardized Test Be Used As The Only Way To Reduce Drop Out?
 
-Brief Summary :This is the first project done find out if standardized test can be used as the only way to reduct drop out.
+• Brief Summary :This is the first project done find out if standardized test can be used as the only way to reduct drop out.
 <br>
-Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Numpy
+• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Numpy
 
 02 : Required core features for the next development project
 
@@ -17,13 +17,25 @@ Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Numpy
 • Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Scipy, Shap, Sklearn, Ipython.display, Numpy<br>
 • Machine Learning models used : Linear regression, Lasso Regression, Ridge Regression
 
-
 03 : Reddit Classification : Depression vs Anxiety
 
+• Brief Summary :
+• Libraries used :
+• Natural Language Processing (NLP) used :
+• Machine Learning models used :
+• Demo used : 
 
 04 : West Nile Prediction
 
+• Brief Summary :
+• Libraries used :
+• Natural Language Processing (NLP) used :
+• Machine Learning models used :
+• Demo used : 
 
 05 : Crypto Fraud Detection
 
+• Brief Summary :
+• Libraries used :
+• Machine Learning models used :
 
