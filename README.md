@@ -12,7 +12,7 @@ The following are the brief summary of the projects.
 
 02 : Required core features for the next development project
 
-• Brief Summary : Analyse the factors that affect the house price and come out with core factors to focus on to improve sales price with 84% accuracy score.
+• Brief Summary : Analyse the factors that affect the house price and come out with core factors to focus on to improve sales price with **84%** accuracy score.
 <br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Scipy, Shap, Sklearn, Ipython.display, Numpy
 <br>• Machine Learning models used : Linear regression, Lasso Regression, Ridge Regression
 
