@@ -18,23 +18,21 @@ The following are the brief summary of the projects.
 
 03 : Reddit Classification : Depression vs Anxiety
 
-• Brief Summary :
-<br>• Libraries used :
-<br>• Natural Language Processing (NLP) used :
-<br>• Machine Learning models used :
-<br>• Demo used : 
+• Brief Summary : Predict which which words belongs to which subreddit with more than 82% score.
+<br>• Libraries used : Python, Jupyter Notebook, BeautifulSoup, Pandas, Matplotlib, Request, Datetime, Time, Random, String, Re, Nltk, 
+IPython.display, WordCloud, Seaborn, Sklearn, GridsearchCV, random
+<br>• Natural Language Processing (NLP) used : Count Vectorizer, TF-IDF
+<br>• Machine Learning models used :Logistic Regression, Naïve Bayes Bernoulli, Random Forest, Adaboost, Gradient Boosting
 
 04 : West Nile Prediction
 
-• Brief Summary :
-<br>• Libraries used :
-<br>• Natural Language Processing (NLP) used :
-<br>• Machine Learning models used :
-<br>• Demo used : 
+• Brief Summary : Predict the virus location with up to 83% recall score with demo to show the locations of the virus location.
+<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib
+<br>• Machine Learning models used : Logistic Regression, Random Forest, Adaboost
+<br>• Demo used : Streamlit
 
 05 : Crypto Fraud Detection
 
 • Brief Summary :
 <br>• Libraries used :
 <br>• Machine Learning models used :
-
