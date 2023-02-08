@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The project was done as part of General Assembly's requirement to pass the course. The aim of this project is to identify and classify two different subreddit post using Natural Language Processing (NLP). To achieve it, I have to do webscraping, clean data and preprocess data, Exploratory Data Analysis (EDA) and training various model to predict and identify the subreddit post. A model accuracy of 82% was achieved for this project. 
+The project was done as part of General Assembly's requirement to pass the course. The aim of this project is to identify and classify two different subreddit post using Natural Language Processing (NLP). To achieve it, I have to do webscraping, clean data and preprocess data, Exploratory Data Analysis (EDA) and training various model to predict and identify the subreddit post. A model accuracy of 96% was achieved for this project. 
 
 ---
 
@@ -116,7 +116,7 @@ The follwing are the modeling done:
 
 ## Conclusions & Recommendations
 
-To conclude, my model can correctly classify post from the correct subreddit with a accuracy of around 82%. It means that for every 10 post, my model can correctly identify 8 correct posts.
+To conclude, my model can correctly classify post from the correct subreddit with a accuracy of around 96%. It means that for every 10 post, my model can correctly identify 9 correct posts.
 The recommendations based on this results is to use this model to find list of post and route these users to its appropriate helpline.
 
 ---
