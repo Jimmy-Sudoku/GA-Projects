@@ -33,6 +33,6 @@ IPython.display, WordCloud, Seaborn, Sklearn, GridsearchCV, random, spacy, WordC
 
 05 : Crypto Fraud Detection
 
-• Brief Summary : To detect Fraud in Ethereum with up to 97% recall score, 97% precise score and 95% accuracy score. Besides that, there was a 63% in features for computational efficiency.
+• Brief Summary : To detect Fraud in Ethereum with 97% recall score, 97% precise score and 95% accuracy score. Adding on, there was a 62% reduction in features for computational efficiency.
 <br>• Libraries used :
-<br>• Machine Learning models used :
+<br>• Machine Learning models used : Logistic Regression, Random Forest, Adaboost, Xgboost
