@@ -29,7 +29,7 @@ The following are the brief summary of the projects.
 <br>• Machine Learning models used : Logistic Regression, Random Forest, Adaboost
 <br>• Demo used : Streamlit
 <br><br><br>
-05 : Crypto Fraud Detection
+05 : CryptoCurrency (Ethereum) Fraud Detection
 
 • Brief Summary : To detect Fraud in Ethereum with **97% recall score, 97% precise score and 95% accuracy score**. Adding on, there was a 62% reduction in features for computational efficiency.
 <br>• Libraries used :
