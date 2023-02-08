@@ -11,7 +11,7 @@ Therefore, it is vital to detect fraud transaction in cryptocurrency, which is t
 
 Based on the analysis done, the following are the findings:
 1. 19 features/factors to determine fraud transactions, which is a reduction of features/factors by 62%
-2. Model can detect fraud with around 97% recall score
+2. Model can detect fraud with around 95% accuracy score and 97% recall score and precise score 
 3. Most of the fraud cases occurs uses famous crypto names to mislead people
 4. 22% of the transactions are fraud.
 
@@ -174,7 +174,7 @@ For postprocessing, the following is used :
 
 To conclude, the below are the following summary:
 
-1. The best model recall score was around 97%, it is able to detect 196 fraud transactions out of 218 transactions, with a type II error of 22 cases.
+1. The best model recall score was around 97% and it is able to detect 196 fraud transactions out of 218 transactions, with a type II error of 22 cases.
 
 2. Fraud transactions consist of 22% of the total transactions ,
 
