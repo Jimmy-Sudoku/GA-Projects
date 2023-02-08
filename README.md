@@ -7,7 +7,8 @@ The following are the brief summary of the projects.
 [01 : Can Standardized Test Be Used As The Only Way To Reduce Drop Out?
 
 • Brief Summary :This is the first project done find out if standardized test can be used as the only way to reduct drop out.
-<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Numpy](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/01%20Project%2001%20-%20Standardized%20test)
+<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Numpy
+](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/01%20Project%2001%20-%20Standardized%20test)
 <br><br>
 [02 : Required core features for the next development project](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/02%20Project%2002%20-%20House%20Price%20Prediction)
 
