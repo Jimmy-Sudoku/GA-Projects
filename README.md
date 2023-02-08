@@ -16,7 +16,7 @@ The following are the brief summary of the projects.
 <br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Scipy, Shap, Sklearn, Ipython.display, Numpy
 <br>• Machine Learning models used : Linear regression, Lasso Regression, Ridge Regression
 
-03 : Reddit Classification : Depression vs Anxiety
+[03 : Reddit Classification : Depression vs Anxiety](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/03%20Project%2003%20-%20Reddit%20Classifications)
 
 • Brief Summary : Predict which which words belongs to which subreddit with up to 96% score.
 <br>• Libraries used : Python, Jupyter Notebook, BeautifulSoup, Pandas, Matplotlib, Request, Datetime, Time, Random, String, Re, Nltk, 
