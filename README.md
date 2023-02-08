@@ -18,9 +18,9 @@ The following are the brief summary of the projects.
 
 03 : Reddit Classification : Depression vs Anxiety
 
-• Brief Summary : Predict which which words belongs to which subreddit with up to 95% score.
+• Brief Summary : Predict which which words belongs to which subreddit with up to 96% score.
 <br>• Libraries used : Python, Jupyter Notebook, BeautifulSoup, Pandas, Matplotlib, Request, Datetime, Time, Random, String, Re, Nltk, 
-IPython.display, WordCloud, Seaborn, Sklearn, GridsearchCV, random
+IPython.display, WordCloud, Seaborn, Sklearn, GridsearchCV, random, spacy, WordCloud
 <br>• Natural Language Processing (NLP) used : Count Vectorizer, TF-IDF
 <br>• Machine Learning models used :Logistic Regression, Naïve Bayes Bernoulli, Random Forest, Adaboost, Gradient Boosting
 
