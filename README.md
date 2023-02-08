@@ -18,9 +18,8 @@ The following are the brief summary of the projects.
 [03 : Reddit Classification : Depression vs Anxiety](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/03%20Project%2003%20-%20Reddit%20Classifications)
 
 • Brief Summary : Predict which which words belongs to which subreddit with up to **96% accuracy score**, **96% precise score** and **96% recall score**.
-<br>• Libraries used : Python, Jupyter Notebook, BeautifulSoup, Pandas, Matplotlib, Request, Datetime, Time, Random, String, Re, Nltk, 
-IPython.display, WordCloud, Seaborn, Sklearn, GridsearchCV, random, spacy, WordCloud
-<br>• Natural Language Processing (NLP) used : Count Vectorizer, TF-IDF
+<br>• Libraries used : Python, Jupyter Notebook, BeautifulSoup, Pandas, Matplotlib, Request, Datetime, Time, Random, String, Re, Seaborn, Sklearn
+<br>• Natural Language Processing (NLP) used : Count Vectorizer, TF-IDF, Spacy, WordCloud, NLTK
 <br>• Machine Learning models used :Logistic Regression, Naïve Bayes Bernoulli, Random Forest, Adaboost, Gradient Boosting
 <br><br><br>
 04 : West Nile Prediction
