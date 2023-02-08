@@ -5,7 +5,7 @@ There is a total for 5 projects done in this course.
 The following are the brief summary of the projects.
 
 
-01 : Can Standardized Test Be Used As The Only Way To Reduce Drop Out?
+01 : [Can Standardized Test Be Used As The Only Way To Reduce Drop Out?](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/01%20Project%2001%20-%20Standardized%20test)
 
 • Brief Summary :This is the first project done find out if standardized test can be used as the only way to reduct drop out.
 <br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Numpy
