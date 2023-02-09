@@ -93,7 +93,7 @@ Key insights:
 
 4. Lower total precipitation (<1.0 inch) contributes to higher prevalence of WNV and number of mosquitoes with WNV.
 
-5. Most importantly, areas around traps that were sprayed had lower incidence of WNV and number of mosquitoes.
+5. Most importantly, areas around traps that were sprayed had lower incidence of WNV and number of mosquitoes. Click [here](https://west-nile-virus-area.streamlit.app/) to see the demo.
 
 Following exploratory data analysis, we proceeded to engineer some relevant features and built several models. Our Xgboost model was ultimately evaluated as the best performing for our purpose and was hence selected as the production model since it fulfilled both criteria outlined in the problem statement (Recall > 0.75 & better performance than baseline model). This selected model achieved a recall score of 0.93 on the hold-out test set with minimal data pre-processing required. 
 
