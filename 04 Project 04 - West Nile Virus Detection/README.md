@@ -16,6 +16,7 @@ Optimizing for recall allows us to use the model to reduce the number of areas t
 
 Xgboost emerged as the best model (Recall = 0.93) over the others in terms of test recall score.
 
+
 |Model|Train Recall(%)|Test Recall(%)|
 |:---:|:---:|:---:|
 |Logistic Regression (baseline)|76.58|75.07|
@@ -24,7 +25,7 @@ Xgboost emerged as the best model (Recall = 0.93) over the others in terms of te
 |||||||
 |AdaBoost|81.90|82.03|
 |||||||
-|<font color="blue">XGBoost</font>|<font color="blue">95.25</font>|<font color="blue">92.81</font>|
+|<font color="blue">**Xgboost**</font>|<font color="red">**95.25**</font>|<font color="red">**92.81**</font>|
 
 # Cost Benefit Analysis
 

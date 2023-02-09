@@ -12,7 +12,7 @@ The following are the brief summary of the projects.
 [02 : Required core features for the next development project](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/02%20Project%2002%20-%20House%20Price%20Prediction)
 
 • Brief Summary : Analyse the factors that affect the house price and come out with core factors to focus on to improve sales price with 84% accuracy score.
-<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Scipy, Shap, Sklearn, Ipython.display, Numpy
+<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Shap, Sklearn, Ipython.display, Numpy
 <br>• Machine Learning models used : Linear regression, Lasso Regression, Ridge Regression
 <br><br><br>
 [03 : Reddit Classification : Depression vs Anxiety](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/03%20Project%2003%20-%20Reddit%20Classifications)
@@ -22,10 +22,10 @@ The following are the brief summary of the projects.
 <br>• Natural Language Processing (NLP) used : Count Vectorizer, TF-IDF, Spacy, WordCloud, NLTK
 <br>• Machine Learning models used :Logistic Regression, Naïve Bayes Bernoulli, Random Forest, Adaboost, Gradient Boosting
 <br><br><br>
-04 : West Nile Prediction
+[04 : West Nile Prediction](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/04%20Project%2004%20-%20West%20Nile%20Virus%20Detection)
 
-• Brief Summary : Predict the virus location with up to 83% recall score with demo to show the locations of the virus location.
-<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib
+• Brief Summary : Predict the virus location with up to **93% recall score** with demo to show the locations of the virus location.
+<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Sklearn, ploty, datetime, OneHotEncoder, RobustScaler, Smote, StratifiedKFold
 <br>• Machine Learning models used : Logistic Regression, Random Forest, Adaboost
 <br>• Demo used : Streamlit
 <br><br><br>
