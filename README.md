@@ -22,10 +22,10 @@ The following are the brief summary of the projects.
 <br>• Natural Language Processing (NLP) used : Count Vectorizer, TF-IDF, Spacy, WordCloud, NLTK
 <br>• Machine Learning models used :Logistic Regression, Naïve Bayes Bernoulli, Random Forest, Adaboost, Gradient Boosting
 <br><br><br>
-04 : West Nile Prediction
+[04 : West Nile Prediction](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/04%20Project%2004%20-%20West%20Nile%20Virus%20Detection)
 
-• Brief Summary : Predict the virus location with up to 83% recall score with demo to show the locations of the virus location.
-<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib
+• Brief Summary : Predict the virus location with up to 93% recall score with demo to show the locations of the virus location.
+<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Sklearn,
 <br>• Machine Learning models used : Logistic Regression, Random Forest, Adaboost
 <br>• Demo used : Streamlit
 <br><br><br>
