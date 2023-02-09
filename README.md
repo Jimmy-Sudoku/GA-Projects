@@ -31,6 +31,6 @@ The following are the brief summary of the projects.
 <br><br><br>
 [05 : CryptoCurrency (Ethereum) Fraud Detection](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/05%20Capstone%20Project%20-%20Crypto%20Fraud%20Detection)
 
-• Brief Summary : To detect Fraud in Ethereum with **97% recall score, 97% precise score and 95% accuracy score**. Adding on, there was a **62% reduction in features** for computational efficiency.
-<br>• Libraries used :
+• Brief Summary : Developed a **computational efficient (62% reduction in features) model** for fraud detection in Ethereum with **97% recall score, 97% precise score and 95% accuracy score**.
+<br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Sklearn, GridsearchCV, Smote, Seaborn
 <br>• Machine Learning models used : Logistic Regression, Random Forest, Adaboost, Xgboost
