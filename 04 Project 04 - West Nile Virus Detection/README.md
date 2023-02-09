@@ -24,7 +24,8 @@ Xgboost emerged as the best model (Recall = 0.93) over the others in terms of te
 |||||||
 |AdaBoost|81.90|82.03|
 |||||||
-|<font color="blue">XGBoost</font>|<font color="blue">95.25</font>|<font color="blue">92.81</font>|
+|<font color="blue">XGBoost</font>|<font color="red">95.25</font>|<font color="red">92.81</font>|
+|<font color="blue">Random Forest (tuned)</font>|<font color="blue">0.90</font>|<font color="blue">0.83</font>|
 
 # Cost Benefit Analysis
 
