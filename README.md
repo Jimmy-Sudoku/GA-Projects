@@ -9,7 +9,7 @@ The following are the brief summary of the projects.
 • Brief Summary :This is the first project done find out if standardized test can be used as the only way to reduct drop out.
 <br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Numpy
 <br><br><br>
-[02 : Required core features for the next development project](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/02%20Project%2002%20-%20House%20Price%20Prediction)
+[02 : Required core features for the next development project](https://github.com/Jimmy-Sudoku/General-Assembly-Projects/tree/main/02_Project%2002-House%20Price%20Prediction)
 
 • Brief Summary : Analyse the factors that affect the house price and come out with core factors to focus on to improve sales price with 84% accuracy score.
 <br>• Libraries used : Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn, Shap, Sklearn, Ipython.display, Numpy
