@@ -15,7 +15,7 @@ Based on the analysis done, the following are the findings:
 3. Most of the fraud cases occurs uses famous crypto names to mislead people
 4. 22% of the transactions are fraud.
 
-With these findings, it is recommended to blacklist token names that uses famous crypto names and use the model to detect fraud transactions.
+With these findings, it is recommended to blacklist token names that uses famous crypto names and use the model to detect fraud transactions. Check out the [dashboard](https://public.tableau.com/app/profile/jimmy5898/viz/CryptoEthFraudDashboard/CryptoEthFraudTransactionVisualisations) for more information.
 
 ---
 
