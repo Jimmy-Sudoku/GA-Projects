@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) GA Capstone Project: Crypto (Eth) Fraud Detection
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) GA Capstone Project: CryptoCurrency(Ethereum) Fraud Detection
 
 ## Summary
 
@@ -11,11 +11,11 @@ Therefore, it is vital to detect fraud transaction in cryptocurrency, which is t
 
 Based on the analysis done, the following are the findings:
 1. 19 features/factors to determine fraud transactions, which is a reduction of features/factors by 62%
-2. Model can detect fraud with around 95% accuracy score and 97% recall score and precise score 
+2. Model can detect fraud with around 97% recall score
 3. Most of the fraud cases occurs uses famous crypto names to mislead people
 4. 22% of the transactions are fraud.
 
-With these findings, it is recommended to blacklist token names that uses famous crypto names and use the model to detect fraud transactions. Check out the [dashboard](https://public.tableau.com/app/profile/jimmy5898/viz/CryptoEthFraudDashboard/CryptoEthFraudTransactionVisualisations) for more information.
+With these findings, it is recommended to blacklist token names that uses famous crypto names and use the model to detect fraud transactions.
 
 ---
 
@@ -174,7 +174,7 @@ For postprocessing, the following is used :
 
 To conclude, the below are the following summary:
 
-1. The best model recall score was around 97% and it is able to detect 196 fraud transactions out of 218 transactions, with a type II error of 22 cases.
+1. The best model recall score was around 97%, it is able to detect 196 fraud transactions out of 218 transactions, with a type II error of 22 cases.
 
 2. Fraud transactions consist of 22% of the total transactions ,
 
